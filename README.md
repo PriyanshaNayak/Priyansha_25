@@ -11,3 +11,6 @@ Priyansha Here...
 •👀👯‍♀️ I'm currently looking forward to collaborate on Github.
 
 •😄 Pronouns: She/Her
+
+### Connect with me 🤝 :
+priyanshanayak233@gmail.com

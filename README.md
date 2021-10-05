@@ -1,7 +1,8 @@
-# Bonjour!! 😊🙋‍♀️
-Priyansha Here...
+# Hola!! 😊🙋‍♀️
 
-## I'm a Student and an Aspiring Developer !!!
+## Priyansha here...
+
+### I'm a Student and an Aspiring Developer !!!
 • 🔭 I'm currently worling on to improve myself in various technical aspects.
 
 • 🌱 I'm currently learning DSA, CP, communication tech and Robotics.
@@ -12,5 +13,7 @@ Priyansha Here...
 
 •😄 Pronouns: She/Her
 
-### Connect with me 🤝 :
+#### Connect with me 🤝 :
 priyanshanayak233@gmail.com
+
+
